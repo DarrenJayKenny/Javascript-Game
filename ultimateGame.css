@@ -1,0 +1,68 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+html {
+    background: linear-gradient(to bottom, #4ca1af, #c4e0e5);
+    background-size: cover; 
+}
+
+body {
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+
+table {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+}
+
+h1 {
+    margin : 1%;
+}
+
+li {
+    padding: 5px;
+}
+
+form {
+    padding: 20px;
+}
+
+#catcher {
+    width : 20%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: 0;
+    border: black solid 5px;
+}
+
+#dodger {
+    width : 20%;
+    text-align: right;
+    margin-left: 0;
+    margin-right: auto;
+    border: black solid 5px;
+}
+
+#breaker {
+    width : 20%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: 0;
+    border: black solid 5px;
+}
+
+#space {
+    width : 20%;
+    text-align: right;
+    margin-left: 0;
+    margin-right: auto;
+    border: black solid 5px;
+}
